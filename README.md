@@ -9,6 +9,6 @@ To install dependencies
   pipenv install --python 3.8 --dev
 ```
 
-`--python 3.8` indicates which python version will be used to create virtualenv, I guess it works with others
+`--python 3.8` indicates which python version will be used to create virtualenv, I guess it works with others python 3.x versions
 
-`--dev` will install dev dependencies such as `flake8` for linting and `jedi` for autocomplete, they are required for some editors.
+`--dev` will install dev dependencies such as `flake8` for linting and `jedi` for autocomplete, they are required by some editors.
